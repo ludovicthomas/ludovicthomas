@@ -10,3 +10,4 @@ I'm working remotely as a freelance/consultant, and as a full stack developer, I
 - ⚡️ backend (Python/Django, Node.js)
 - 📱 mobile (ObjC, Swift, Java, Kotlin, Xamarin)
 - 🖥 desktop (Electron, Xamarin). 
+- ☁️ cloud services (AWS, GCP)
