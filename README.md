@@ -6,8 +6,8 @@ Hi there! I'm Ludovic, Senior Software Developer who enjoy creating cutting-edge
 
 I'm working remotely as a freelance/consultant, and as a full stack developer, I'm able to create a project from scratch or help an existing team on the following technologies:
 
-- 🌍 web (Angular, React)
-- ⚡️ backend (Python/Django, Node.js)
-- 📱 mobile (ObjC, Swift, Java, Kotlin, Xamarin)
-- 🖥 desktop (Electron, Xamarin). 
-- ☁️ cloud services (AWS, GCP)
+- 🌍 &nbsp;&nbsp;web (Angular, React)
+- ⚡️ &nbsp;&nbsp;backend (Python/Django, Node.js)
+- 📱 &nbsp;&nbsp;mobile (ObjC, Swift, Java, Kotlin, Xamarin)
+- 🖥  &nbsp;&nbsp;desktop (Electron, Xamarin). 
+- ☁️  &nbsp;&nbsp;cloud services (AWS, GCP)
